@@ -1,0 +1,1 @@
+public classe ClasseA(){}
