@@ -1,3 +1,3 @@
-public classe ClasseA(){
+public classe ClasseA{
 	private String nome;
 }
