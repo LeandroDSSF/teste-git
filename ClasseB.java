@@ -1,4 +1,4 @@
-public class ClasseB{
+public class ClasseB {
 	private String idade;
 
 }
