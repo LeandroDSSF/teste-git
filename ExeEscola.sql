@@ -5,7 +5,7 @@ DROP TABLE ESCOLA;
 DROP TABLE GRAU;
 DROP TABLE PERIODO;
 
-// Branch-Novo
+// Branch-Novo.
 
 CREATE TABLE PERIODO (
     
