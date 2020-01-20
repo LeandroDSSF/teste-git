@@ -5,7 +5,11 @@ DROP TABLE ESCOLA;
 DROP TABLE GRAU;
 DROP TABLE PERIODO;
 
+<<<<<<< HEAD
 // Branch-Novo 
+=======
+// Branch-Novo.
+>>>>>>> branch-novo
 
 CREATE TABLE PERIODO (
     
